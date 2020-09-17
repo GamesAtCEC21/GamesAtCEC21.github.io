@@ -1,6 +1,3 @@
-# IEEE CEC 2021 
-# Proposed Special Session on Games
-
 **Organisers:**  
 - Alexander Dockhorn (a.dockhorn@qmul.ac.uk), 
 - Chiara Sironi (c.sironi@maastrichtuniversity.nl), 
