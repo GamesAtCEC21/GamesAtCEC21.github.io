@@ -35,10 +35,10 @@ Examples include but are not limited to:
 
 Please note that the list below serves as a rough guide. The dates may be changed due to changes by the organizing committee. You can find the latest information at: [https://cec2021.mini.pw.edu.pl/en/important-dates](https://cec2021.mini.pw.edu.pl/en/important-dates).
 	
-| 17 December 2020           | Paper Submission Deadline           |
+| 31 January 2021            | Paper Submission Deadline           |
 | :------------------------- |:------------------------------------|
-| 31 January 2021            | Paper Acceptance Notification       |
-| 22 March 2021              | Final Paper Submission Deadline     |
+| 22 March 2021              | Paper Acceptance Notification       |
+| 7 April 2021               | Final Paper Submission Deadline     |
 | 7 April 2021               | Early Registration Deadline         |
 | 28 June 2021 - 1 July 2021 | Conference Dates                    |
 
