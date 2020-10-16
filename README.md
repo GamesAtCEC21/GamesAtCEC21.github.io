@@ -31,6 +31,17 @@ Examples include but are not limited to:
 - Team AI
 - Game AI for decision making and planning
  
+## Important Dates
+
+Please note that the list below serves as a rough guide. The dates may be changed due to changes by the organizing committee. You can find the latest information at: [https://cec2021.mini.pw.edu.pl/en/important-dates](https://cec2021.mini.pw.edu.pl/en/important-dates).
+	
+| 17 December 2020           | Paper Submission Deadline           |
+| :------------------------- |:------------------------------------|
+| 31 January 2021            | Paper Acceptance Notification       |
+| 22 March 2021              | Final Paper Submission Deadline     |
+| 7 April 2021               | Early Registration Deadline         |
+| 28 June 2021 - 1 July 2021 | Conference Dates                    |
+
 ## About the organisers
 
 **Alexander Dockhorn** is post-doctoral research associate at the Queen Mary University of London. He received his PhD at the Otto von Guericke University in Magdeburg in 2020. His research focuses on forward model learning methods and the analysis of prediction-based search agents in games with a special interest in partial-information games. He is active member of the IEEE in which he serves as the chair of the IEEE CIS Competitions Sub-Committe and recently joined as a member of the Games Technical Committee (GTC). Since 2017, he is organizing the Hearthstone AI competition to foster comparability of AI agents in card games. 
